@@ -1,1 +1,18 @@
-"ADDED": stupid dildo
+[
+    {
+        "type": "ADDED",
+        "description": "New feature for enhanced performance"
+    },
+    {
+        "type": "FIXED",
+        "description": "Bug fix for login issue"
+    },
+    {
+        "type": "UPDATED",
+        "description": "Updated user interface for better accessibility"
+    },
+    {
+        "type": "REMOVED",
+        "description": "Removed deprecated APIs"
+    }
+]
